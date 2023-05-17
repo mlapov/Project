@@ -1,0 +1,32 @@
+{
+    "Client ID": "1",
+    "Contract": {
+        "symbol": "MES",
+        "secType": "FUT",
+        "exchange": "CME",
+        "currency": "USD",
+        "localSymbol": "MESH3"
+    },
+    "Host": "127.0.0.1",
+    "Port": "7497",
+    "Email": "mikhaillapov12@gmail.com",
+    "Telegram_token": "5702031284:AAH4lK4VgIH5hUdVg-7JJNMG7y3a5cSf2pw",
+    "Telegram_id": "987861324",
+    "Time_to_act": {
+        "input_hour": "20",
+        "input_min": "00",
+        "input_sec": "0",
+        "output_hour": "15",
+        "output_min": "59",
+        "output_sec": "0"
+    },
+    "delta": 2,
+    "price_input_avg": 0,
+    "price_input": 0,
+    "price_stop": 0,
+    "price_last": 4039.25,
+    "stop_percent": 95,
+    "svv": 9,
+    "risk": "2",
+    "lastTradeDate": "20230317"
+}

@@ -1,0 +1,11 @@
+(MainThread) 220715_13:06:59.384 ERROR wrapper.py:57 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 220715_13:06:59.384 ERROR wrapper.py:57 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 220715_13:06:59.384 ERROR wrapper.py:57 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 220715_13:06:59.384 ERROR wrapper.py:57 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 220715_13:06:59.384 ERROR wrapper.py:57 ERROR -1 2106 HMDS data farm connection is OK:fundfarm
+(MainThread) 220715_13:06:59.384 ERROR wrapper.py:57 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 220715_13:06:59.384 ERROR wrapper.py:57 ERROR -1 2158 Sec-def data farm connection is OK:secdefil
+(MainThread) 220715_13:06:59.477 ERROR wrapper.py:57 ERROR 1100 10276 News feed is not allowed.
+(MainThread) 220715_13:06:59.571 ERROR wrapper.py:57 ERROR 1101 10276 News feed is not allowed.
+(MainThread) 220715_13:06:59.680 ERROR wrapper.py:57 ERROR 1102 10276 News feed is not allowed.
+(MainThread) 220715_13:28:59.882 ERROR wrapper.py:57 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
