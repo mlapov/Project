@@ -1,2 +1,0 @@
-const addressContracts = {     "adressOwner": "0x7D63D9Ddf2b9B3B0F1cb95eFb0a7ae1cADF35e12",     "addressToken" : "0x23D57c0c0F2E67E2Ee1EA0a136B02E9743c46D94",     "addressTaxContract" : "0x18F80e703E591364F53Ee2D8081819bd87582D56",     "addressNFT" : "0x67213236b23B2567eB743C6F88F2cc23884bbb3b"   };   
-export default addressContracts;
